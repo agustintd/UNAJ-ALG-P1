@@ -1,0 +1,6 @@
+C:\Users\Alumnos-UNAJ\Documents\SharpDevelop Projects\proyecto1\proyecto1\bin\Debug\proyecto1.exe.config
+C:\Users\Alumnos-UNAJ\Documents\SharpDevelop Projects\proyecto1\proyecto1\bin\Debug\proyecto1.exe
+C:\Users\Alumnos-UNAJ\Documents\SharpDevelop Projects\proyecto1\proyecto1\bin\Debug\proyecto1.pdb
+C:\Users\Alumnos-UNAJ\Documents\SharpDevelop Projects\proyecto1\proyecto1\obj\Debug\proyecto1.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos-UNAJ\Documents\SharpDevelop Projects\proyecto1\proyecto1\obj\Debug\proyecto1.exe
+C:\Users\Alumnos-UNAJ\Documents\SharpDevelop Projects\proyecto1\proyecto1\obj\Debug\proyecto1.pdb
