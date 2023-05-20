@@ -8,7 +8,7 @@
  
 using System;
 
-namespace proyecto1.Clases
+namespace proyecto1
 {
 	/// <summary>
 	/// Description of Obra.

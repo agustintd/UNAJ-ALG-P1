@@ -44,18 +44,15 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Clases\Empresa.cs" />
-    <Compile Include="Clases\GrupoObreros.cs" />
-    <Compile Include="Clases\Obra.cs" />
-    <Compile Include="Clases\Obrero.cs" />
+    <Compile Include="Empresa.cs" />
+    <Compile Include="GrupoObreros.cs" />
+    <Compile Include="Obra.cs" />
+    <Compile Include="Obrero.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Clases" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

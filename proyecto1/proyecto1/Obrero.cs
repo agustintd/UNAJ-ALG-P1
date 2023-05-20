@@ -8,7 +8,7 @@
  
 using System;
 
-namespace proyecto1.Clases
+namespace proyecto1
 {
 	/// <summary>
 	/// Description of Obrero.
@@ -16,8 +16,10 @@ namespace proyecto1.Clases
 	/// </summary>
 	public class Obrero
 	{
-		public Obrero()
+		public int legajo;
+		public Obrero(int legajo)
 		{
+			this.legajo = legajo;
 		}
 	}
 }
