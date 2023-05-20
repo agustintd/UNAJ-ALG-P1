@@ -13,7 +13,7 @@ namespace proyecto1
 {
 	/// <summary>
 	/// Description of Empresa.
-	/// -ObrasActivas (Array de obras activas) - ObrasFinalizadas (Array de obras Finalizadas) - Grupos de obreros (Array de obreros) - Obreros (Array Obreros)
+	/// -ObrasActivas (Array de obras activas) - ObrasFinalizadas (Array de obras Finalizadas) - Grupos de obreros (Array de obreros) - Obreros (Array Obreros ELIMINAR)
 	/// </summary>
 	public class Empresa
 	{
