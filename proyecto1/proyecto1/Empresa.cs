@@ -24,7 +24,7 @@ namespace proyecto1
 		public Empresa()
 		{
 		}
-		public void listarObreros(){
+		public void listarObreros(Obrero obrero){
 			
 		}
 		public void listarObrasActivas(){

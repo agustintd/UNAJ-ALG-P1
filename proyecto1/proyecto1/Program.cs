@@ -69,6 +69,8 @@ namespace proyecto1
 						case 3:
 							{
 								Console.WriteLine("c3");
+								listarObreros(emp);
+								
 								break;
 							}
 						case 4:
@@ -129,7 +131,7 @@ namespace proyecto1
 			Console.WriteLine("");
 
 			//Obrero unObrero = new Obrero(nombre, apellido, cargo, legajo, dni, grupoAlQuePertenece);
-			Obrero unObrero = new Obrero(legajo);
+			Obrero unObrero = new Obrero(legajo, nombre, apellido, dni, cargo, grupoAlQuePertenece);
 			emp.agregarObrero(unObrero);
 			foreach (GrupoObreros grupo in emp.GrupoObreros) {
 				if (grupo.numGrupo == grupoAlQuePertenece) {
@@ -147,8 +149,8 @@ namespace proyecto1
 			int legajoAEliminar = int.Parse(Console.ReadLine());
 			ArrayList Obreros = emp.Obreros;
 			foreach (Obrero elem in Obreros) {
-				Console.WriteLine("Legajo = {0}", elem.legajo);
-				if (elem.legajo == legajoAEliminar) {
+				Console.WriteLine("Legajo = {0}", elem.Legajo);
+				if (elem.Legajo == legajoAEliminar) {
 					emp.eliminarObrero(elem);
 					Console.WriteLine("obrero eliminado satisfactoriamente");
 					break;
@@ -156,7 +158,18 @@ namespace proyecto1
 					Console.WriteLine("El legajo no coincide con ningun abogado de nuestra lista");
 				}
 			}
-		}     
+		} 
+		public static void listarObreros (Empresa emp){
+			 int num = 1;
+            foreach (Obrero elem in emp.Obreros)
+            {
+                
+                Console.Write(num+"- ");
+                ((Obrero)elem).imprimir(elem);
+                num++; 
+                
+            }
+		}
 	}
 }
 	
