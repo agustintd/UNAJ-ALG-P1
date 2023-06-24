@@ -341,20 +341,18 @@ namespace proyecto1
 		}
 		
 		public static void colorPrint(string text, string color){
+			Console.ResetColor();
 			if(color == "rojo"){
 				Console.BackgroundColor = ConsoleColor.White;
 				Console.ForegroundColor = ConsoleColor.Red;
-				Console.WriteLine(text);
 			}
 			else if(color == "verde"){
 				Console.BackgroundColor = ConsoleColor.DarkGray;
 				Console.ForegroundColor = ConsoleColor.Green;
-				Console.WriteLine(text);
 			}else{
-				Console.ResetColor();
 				Console.ForegroundColor = ConsoleColor.White;
-				Console.WriteLine(text);
 			}
+			Console.WriteLine(text);
 			Console.ResetColor();
 			Console.ForegroundColor = ConsoleColor.White;
 		}
