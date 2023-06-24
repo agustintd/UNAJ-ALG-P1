@@ -10,3 +10,9 @@ C:\Users\ale_t\Desktop\tp algor\UNAJ-ALG-P1\proyecto1\proyecto1\obj\Debug\proyec
 C:\Users\ale_t\Desktop\tp algor\UNAJ-ALG-P1\proyecto1\proyecto1\bin\Debug\proyecto1.exe.config
 C:\Users\ale_t\Desktop\tp algor\UNAJ-ALG-P1\proyecto1\proyecto1\bin\Debug\proyecto1.exe
 C:\Users\ale_t\Desktop\tp algor\UNAJ-ALG-P1\proyecto1\proyecto1\bin\Debug\proyecto1.pdb
+F:\!Proyectos\facuC#\UNAJ-ALG-P1\proyecto1\proyecto1\bin\Debug\proyecto1.exe.config
+F:\!Proyectos\facuC#\UNAJ-ALG-P1\proyecto1\proyecto1\bin\Debug\proyecto1.exe
+F:\!Proyectos\facuC#\UNAJ-ALG-P1\proyecto1\proyecto1\bin\Debug\proyecto1.pdb
+F:\!Proyectos\facuC#\UNAJ-ALG-P1\proyecto1\proyecto1\obj\Debug\proyecto1.csprojResolveAssemblyReference.cache
+F:\!Proyectos\facuC#\UNAJ-ALG-P1\proyecto1\proyecto1\obj\Debug\proyecto1.exe
+F:\!Proyectos\facuC#\UNAJ-ALG-P1\proyecto1\proyecto1\obj\Debug\proyecto1.pdb
